@@ -1,4 +1,4 @@
-# Optimizing-Vehicle-Routing-using-Genetic-Algorithm
+# Optimizing-Vehicle-Routes-using-Genetic-Algorithm
 <br>
 <h2>Vehicle Routing Problem</h2>
 <p>The Vehicle Routing Problem (VRP) involves finding the best routes for a fleet of vehicles to deliver goods or services to customers. Our version of VRP focuses on two main goals: minimizing the total distance traveled and balancing the workload so that no single vehicle gets worn out more than the others. This helps reduce overall travel costs and maintenance expenses while ensuring that all vehicles last longer and remain reliable. Optimizing VRP in logistics is crucial for businesses, as it leads to significant cost savings, better customer service, and a more efficient and sustainable transportation system.</p>
